@@ -10,3 +10,5 @@ end
    badge_names
 end 
 
+def assign_rooms(attendees)
+  
