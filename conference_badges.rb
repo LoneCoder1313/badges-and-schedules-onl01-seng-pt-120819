@@ -1,2 +1,2 @@
 name = ["Arel"]
-attendees = [""]
+attendees = []
