@@ -1,8 +1,7 @@
 name = ["Arel"]
 attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-badge_maker = ["Hello my name is (name)."]
 room_assignment= [1,2,3,4,5,6,7]
 
 def badge_maker(name)
-  puts "#{badge_maker}#{name}"
+  puts " Hello my names is #{name}"
 end 
