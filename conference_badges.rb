@@ -12,5 +12,6 @@ end
 
 def assign_rooms(attendees)
   rooms = []
+  index = 1 
   
 end 
